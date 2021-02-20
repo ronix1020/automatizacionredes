@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Este es mi deploy hacia GitHub
 Este es mi segundo deploy hacia GitHub
+=======
+Este es mi primer deploy hacia GitHub
+Este es mi segundo deploy hacia Git
+>>>>>>> test
